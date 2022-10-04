@@ -12,7 +12,7 @@ namespace Laba1
         private static readonly string _outputFilePath = @"D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Laba1\Output.txt";
         private static readonly string _whitespace = " ";
 
-        public static string haveSameDigitsAndLength(int a, int b)
+        public static string HaveSameDigitsAndLength(int a, int b)
         {
             int[] digits = new int[10];
             for (int i = a; i > 0; i = i / 10)
@@ -46,7 +46,7 @@ namespace Laba1
                 {
                     Console.WriteLine(lineWithoutSpace[i]);
                     Console.WriteLine(lineWithoutSpace[i + 1]);
-                    string result = haveSameDigitsAndLength(Convert.ToInt32(lineWithoutSpace[i]), Convert.ToInt32(lineWithoutSpace[i + 1]));
+                    string result = HaveSameDigitsAndLength(Convert.ToInt32(lineWithoutSpace[i]), Convert.ToInt32(lineWithoutSpace[i + 1]));
                     writer.WriteLine(result);
                     i += 1;
                 }
