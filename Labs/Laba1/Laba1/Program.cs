@@ -12,7 +12,7 @@ namespace Laba1
         private static readonly string _outputFilePath = @"D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Laba1\Output.txt";
         private static readonly string _whitespace = " ";
 
-        public static string HaveSameDigitsAndLength(int a, int b)
+        public static string haveSameDigitsAndLength(int a, int b)
         {
             int[] digits = new int[10];
             for (int i = a; i > 0; i = i / 10)
@@ -37,6 +37,11 @@ namespace Laba1
         {
 
             List<string> lines = File.ReadLines(_inputFilePath).ToList();
+            if (lines.Count % 2 != 0)
+            {
+                throw new Exception("Incorrect count of strings in Input.txt file");
+            }
+
             List<string> lineWithoutSpace = lines.Select(x => x.Replace(_whitespace, String.Empty)).ToList();
             lines.Clear();
 
@@ -44,14 +49,20 @@ namespace Laba1
             {
                 for (var i = 0; i < lineWithoutSpace.Count; i++)
                 {
-                    Console.WriteLine(lineWithoutSpace[i]);
-                    Console.WriteLine(lineWithoutSpace[i + 1]);
-                    string result = HaveSameDigitsAndLength(Convert.ToInt32(lineWithoutSpace[i]), Convert.ToInt32(lineWithoutSpace[i + 1]));
-                    writer.WriteLine(result);
+                    if (Int32.TryParse(lineWithoutSpace[i], out int num1) && Int32.TryParse(lineWithoutSpace[i + 1], out int num2))
+                    {
+                        string result = haveSameDigitsAndLength(num1, num2);
+                        writer.WriteLine(result);
+                    }
+                    else
+                    {
+                        throw new Exception("Input Error file contains invalid characters");
+                    }
+
                     i += 1;
                 }
             }
         }
-        
+
     }
 }
