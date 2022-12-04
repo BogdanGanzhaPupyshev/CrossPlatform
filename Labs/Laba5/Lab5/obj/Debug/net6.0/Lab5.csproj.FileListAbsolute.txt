@@ -1,0 +1,93 @@
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\obj\Debug\net6.0\Lab5.csproj.AssemblyReference.cache
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\obj\Debug\net6.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\obj\Debug\net6.0\Lab5.AssemblyInfoInputs.cache
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\obj\Debug\net6.0\Lab5.AssemblyInfo.cs
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\obj\Debug\net6.0\Lab5.csproj.CoreCompileInputs.cache
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\obj\Debug\net6.0\Lab5.MvcApplicationPartsAssemblyInfo.cache
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\obj\Debug\net6.0\Lab5.RazorAssemblyInfo.cache
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\obj\Debug\net6.0\Lab5.RazorAssemblyInfo.cs
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\bin\Debug\net6.0\appsettings.Development.json
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\bin\Debug\net6.0\appsettings.json
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\bin\Debug\net6.0\libman.json
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\bin\Debug\net6.0\Lab5.staticwebassets.runtime.json
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\bin\Debug\net6.0\Lab5.exe
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\bin\Debug\net6.0\Lab5.deps.json
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\bin\Debug\net6.0\Lab5.runtimeconfig.json
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\bin\Debug\net6.0\Lab5.dll
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\bin\Debug\net6.0\Lab5.pdb
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\bin\Debug\net6.0\Okta.AspNet.Abstractions.dll
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\bin\Debug\net6.0\Okta.AspNetCore.dll
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\bin\Debug\net6.0\Lab5ClassLibrary.dll
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\bin\Debug\net6.0\Lab5ClassLibrary.pdb
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\obj\Debug\net6.0\staticwebassets.build.json
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\obj\Debug\net6.0\staticwebassets.development.json
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\obj\Debug\net6.0\scopedcss\bundle\Lab5.styles.css
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\obj\Debug\net6.0\scopedcss\projectbundle\Lab5.bundle.scp.css
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\obj\Debug\net6.0\Lab5.csproj.CopyComplete
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\obj\Debug\net6.0\Lab5.dll
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\obj\Debug\net6.0\refint\Lab5.dll
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\obj\Debug\net6.0\Lab5.pdb
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\obj\Debug\net6.0\Lab5.genruntimeconfig.cache
+F:\AnnaLabs\KNU\4\4.1\Кросплатформне програмування\Labs as single projects\Lab5\Lab5\obj\Debug\net6.0\ref\Lab5.dll
+C:\Users\User_Name\Desktop\CrossPlatformSoftware-main\Lab5\Lab5\obj\Debug\net6.0\Lab5.csproj.AssemblyReference.cache
+C:\Users\User_Name\Desktop\CrossPlatformSoftware-main\Lab5\Lab5\obj\Debug\net6.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User_Name\Desktop\CrossPlatformSoftware-main\Lab5\Lab5\obj\Debug\net6.0\Lab5.AssemblyInfoInputs.cache
+C:\Users\User_Name\Desktop\CrossPlatformSoftware-main\Lab5\Lab5\obj\Debug\net6.0\Lab5.AssemblyInfo.cs
+C:\Users\User_Name\Desktop\CrossPlatformSoftware-main\Lab5\Lab5\obj\Debug\net6.0\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\User_Name\Desktop\CrossPlatformSoftware-main\Lab5\Lab5\obj\Debug\net6.0\Lab5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User_Name\Desktop\CrossPlatformSoftware-main\Lab5\Lab5\obj\Debug\net6.0\Lab5.RazorAssemblyInfo.cache
+C:\Users\User_Name\Desktop\CrossPlatformSoftware-main\Lab5\Lab5\obj\Debug\net6.0\Lab5.RazorAssemblyInfo.cs
+C:\Users\User_Name\Desktop\CrossPlatformSoftware-main\Lab5\Lab5\obj\Debug\net6.0\Lab5.dll
+C:\Users\User_Name\Desktop\CrossPlatformSoftware-main\Lab5\Lab5\obj\Debug\net6.0\refint\Lab5.dll
+C:\Users\User_Name\Desktop\CrossPlatformSoftware-main\Lab5\Lab5\obj\Debug\net6.0\Lab5.pdb
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\obj\Debug\net6.0\Lab5.csproj.AssemblyReference.cache
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\obj\Debug\net6.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\obj\Debug\net6.0\Lab5.AssemblyInfoInputs.cache
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\obj\Debug\net6.0\Lab5.AssemblyInfo.cs
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\obj\Debug\net6.0\Lab5.csproj.CoreCompileInputs.cache
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\obj\Debug\net6.0\Lab5.MvcApplicationPartsAssemblyInfo.cache
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\obj\Debug\net6.0\Lab5.RazorAssemblyInfo.cache
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\obj\Debug\net6.0\Lab5.RazorAssemblyInfo.cs
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\bin\Debug\net6.0\appsettings.Development.json
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\bin\Debug\net6.0\appsettings.json
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\bin\Debug\net6.0\libman.json
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\bin\Debug\net6.0\Lab5.staticwebassets.runtime.json
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\bin\Debug\net6.0\Lab5.exe
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\bin\Debug\net6.0\Lab5.deps.json
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\bin\Debug\net6.0\Lab5.runtimeconfig.json
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\bin\Debug\net6.0\Lab5.dll
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\bin\Debug\net6.0\Lab5.pdb
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\bin\Debug\net6.0\Okta.AspNet.Abstractions.dll
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\bin\Debug\net6.0\Okta.AspNetCore.dll
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\bin\Debug\net6.0\ThreeTasksLibrary.dll
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\bin\Debug\net6.0\ThreeTasksLibrary.pdb
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\obj\Debug\net6.0\staticwebassets.build.json
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\obj\Debug\net6.0\staticwebassets.development.json
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\obj\Debug\net6.0\scopedcss\bundle\Lab5.styles.css
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\obj\Debug\net6.0\scopedcss\projectbundle\Lab5.bundle.scp.css
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\obj\Debug\net6.0\Lab5.csproj.CopyComplete
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\obj\Debug\net6.0\Lab5.dll
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\obj\Debug\net6.0\refint\Lab5.dll
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\obj\Debug\net6.0\Lab5.pdb
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\obj\Debug\net6.0\Lab5.genruntimeconfig.cache
+D:\Универ\Практические 4 курс\Кросплатформенная разработка\Programs\Lab5\obj\Debug\net6.0\ref\Lab5.dll
