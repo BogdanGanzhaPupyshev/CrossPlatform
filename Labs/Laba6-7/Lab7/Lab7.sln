@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab7", "Lab7.csproj", "{4531186C-B5B8-465C-A9E7-3B939A33D1B8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C5440911-2CA8-442B-96F7-BC7767737CAD} = {C5440911-2CA8-442B-96F7-BC7767737CAD}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laba6DB", "..\Laba6DB\Laba6DB.csproj", "{C5440911-2CA8-442B-96F7-BC7767737CAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4531186C-B5B8-465C-A9E7-3B939A33D1B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4531186C-B5B8-465C-A9E7-3B939A33D1B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4531186C-B5B8-465C-A9E7-3B939A33D1B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4531186C-B5B8-465C-A9E7-3B939A33D1B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5440911-2CA8-442B-96F7-BC7767737CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5440911-2CA8-442B-96F7-BC7767737CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5440911-2CA8-442B-96F7-BC7767737CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5440911-2CA8-442B-96F7-BC7767737CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {384612E1-66A3-42DC-900F-35C848752A22}
+	EndGlobalSection
+EndGlobal
